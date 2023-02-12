@@ -17,5 +17,3 @@
 </div>
 
 ##
-
-![snake gif](https://github.com/7vniciussz/https://github.com/7vniciussz/7vniciussz/edit/main/README.md/blob/output/github-contribution-grid-snake.svg)
